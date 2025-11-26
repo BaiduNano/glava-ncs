@@ -23,6 +23,7 @@
 
 #include "glfft_gl_api_headers.hpp"
 
+
 /* GLava additions (POSIX) */
 extern "C" {
     #include <time.h>
@@ -30,6 +31,8 @@ extern "C" {
     #include <stdlib.h>
     #include <string.h>
     #include <error.h>
+    #include <cstdio>
+    #include <cerrno>
 }
 
 #ifndef GLFFT_GLSL_LANG_STRING

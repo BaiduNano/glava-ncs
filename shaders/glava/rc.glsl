@@ -38,18 +38,18 @@
 
 /* Whether to average and mirror left and right audio input channels.
    This may cause some modules to only render a single channel. */
-#request setmirror false
+#request setmirror true
 
 /* OpenGL context and GLSL shader versions, do not change unless
    you *absolutely* know what you are doing. */
-#request setversion 3 3
-#request setshaderversion 330
+#request setversion 4 5
+#request setshaderversion 450
 
 /* Window title */
 #request settitle "GLava"
 
 /* Window geometry (x, y, width, height) */
-#request setgeometry 0 0 800 600
+#request setgeometry 0 0 380 380
 
 /* Window background color (RGBA format).
    Does not work with `setopacity "xroot"` */
