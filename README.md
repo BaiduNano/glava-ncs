@@ -33,6 +33,7 @@ $ glava-ncs -m ncs
 **All configurations are available on GLava's documentations.**
 
 **Credits & Acknowledgements**
+
 GLava: The original lightweight OpenGL audio spectrum visualizer.
 https://github.com/jarcode-foss/glava
 
