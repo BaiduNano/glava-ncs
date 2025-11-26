@@ -1,6 +1,3 @@
-
-<img align="left" width="200" height="200" src="https://thumbs.gfycat.com/DefiantInformalIndianspinyloach-size_restricted.gif" />
-
 **glava-ncs** is modified GLava streamlined to to run Roonil's NCS_Spectrum_GLava.
 
 **Compiling:**
