@@ -22,6 +22,7 @@
 #define GLFFT_COMMON_HPP__
 
 #include "glfft_interface.hpp"
+#include <cstdint>
 #include <functional>
 #include <cstddef>
 #include <cstdlib>
