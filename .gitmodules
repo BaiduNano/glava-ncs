@@ -1,3 +1,6 @@
 [submodule "glad"]
 	path = glad
 	url = https://github.com/Dav1dde/glad
+[submodule "NCS_Spectrum_GLava"]
+	path = NCS_Spectrum_GLava
+	url = https://github.com/Roonil/NCS_Spectrum_GLava
