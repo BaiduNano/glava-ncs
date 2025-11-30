@@ -6,7 +6,7 @@
 
 ```bash
 $ git clone https://github.com/BaiduNano/glava-ncs
-$ cd glava
+$ cd glava-ncs
 $ meson build --prefix /usr
 $ ninja -C build
 $ sudo ninja -C build install
