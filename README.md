@@ -10,6 +10,7 @@ $ cd glava-ncs
 $ meson build --prefix /usr
 $ ninja -C build
 $ sudo ninja -C build install
+$ glava-ncs --copy-config
 $ glava-ncs -m ncs
 ```
 
