@@ -1,6 +1,6 @@
 <video src=https://github.com/user-attachments/assets/82bc1c35-71f1-4b4e-b3bf-7728fa188f34 width=720/></video>
 
-**glava-ncs** is modified GLava, streamlined to to run [Roonil's NCS_Spectrum_GLava](https://github.com/Roonil/NCS_Spectrum_GLava).
+**glava-ncs** is modified GLava, streamlined to run [Roonil's NCS_Spectrum_GLava](https://github.com/Roonil/NCS_Spectrum_GLava).
 
 **Compiling:**
 
